@@ -1,18 +1,24 @@
 class Solution {
 public:
     int countDigitOccurrences(vector<int>& nums, int digit) {
-        string s="";
-        char d=digit+'0';
-        int c=0;
+        int ans=0;
         for(int i=0;i<nums.size();i++)
         {
-            s+=to_string(nums[i]);
+            ans+=cnt(nums[i],digit);
         }
-        for(int i=0;i<s.size();i++)
+        return ans;
+    }
+    private:
+    int cnt(int n,int d)
+    {
+        int rs=0;
+        while(n!=0)
         {
-            if(s[i]==d)
-            c++;
+            int r=n%10;
+            if(r==d)
+            rs++;
+            n/=10;
         }
-        return c;
+        return rs;
     }
 };

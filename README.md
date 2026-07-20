@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishiB712/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/RishiB712/Leetcode-soln/tree/master/0048-rotate-image) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishiB712/Leetcode-soln/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RishiB712/Leetcode-soln/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishiB712/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishiB712/Leetcode-soln/tree/master/0011-container-with-most-water) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RishiB712/Leetcode-soln/tree/master/0048-rotate-image) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 ## String
 |  |
 | ------- |

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishiB712/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RishiB712/Leetcode-soln/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RishiB712/Leetcode-soln/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3895-count-digit-appearances](https://github.com/RishiB712/Leetcode-soln/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RishiB712/Leetcode-soln/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Stack
 |  |
 | ------- |

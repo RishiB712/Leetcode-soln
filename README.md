@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/RishiB712/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RishiB712/Leetcode-soln/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2079-watering-plants](https://github.com/RishiB712/Leetcode-soln/tree/master/2079-watering-plants) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RishiB712/Leetcode-soln/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RishiB712/Leetcode-soln/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishiB712/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/1441-build-an-array-with-stack-operations) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2079-watering-plants](https://github.com/RishiB712/Leetcode-soln/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RishiB712/Leetcode-soln/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishiB712/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math

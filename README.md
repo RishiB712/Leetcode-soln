@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/RishiB712/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RishiB712/Leetcode-soln/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RishiB712/Leetcode-soln/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2079-watering-plants](https://github.com/RishiB712/Leetcode-soln/tree/master/2079-watering-plants) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RishiB712/Leetcode-soln/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RishiB712/Leetcode-soln/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/RishiB712/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RishiB712/Leetcode-soln/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RishiB712/Leetcode-soln/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RishiB712/Leetcode-soln/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RishiB712/Leetcode-soln/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Dynamic Programming

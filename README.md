@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/RishiB712/Leetcode-soln/tree/master/2683-neighboring-bitwise-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3895-count-digit-appearances](https://github.com/RishiB712/Leetcode-soln/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/RishiB712/Leetcode-soln/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishiB712/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
 |  |
 | ------- |

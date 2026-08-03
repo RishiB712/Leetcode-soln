@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/RishiB712/Leetcode-soln/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishiB712/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RishiB712/Leetcode-soln/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RishiB712/Leetcode-soln/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RishiB712/Leetcode-soln/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/RishiB712/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RishiB712/Leetcode-soln/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RishiB712/Leetcode-soln/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2895-minimum-processing-time](https://github.com/RishiB712/Leetcode-soln/tree/master/2895-minimum-processing-time) |
 ## Simulation
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RishiB712/Leetcode-soln/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RishiB712/Leetcode-soln/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RishiB712/Leetcode-soln/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RishiB712/Leetcode-soln/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2895-minimum-processing-time](https://github.com/RishiB712/Leetcode-soln/tree/master/2895-minimum-processing-time) |

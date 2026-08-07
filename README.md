@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/RishiB712/Leetcode-soln/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RishiB712/Leetcode-soln/tree/master/0048-rotate-image) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RishiB712/Leetcode-soln/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RishiB712/Leetcode-soln/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RishiB712/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RishiB712/Leetcode-soln/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
 ## Counting Sort
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Game Theory
 |  |

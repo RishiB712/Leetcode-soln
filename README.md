@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RishiB712/Leetcode-soln/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/RishiB712/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/RishiB712/Leetcode-soln/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/RishiB712/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishiB712/Leetcode-soln/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
 ## Bit Manipulation

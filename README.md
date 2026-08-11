@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/RishiB712/Leetcode-soln/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/RishiB712/Leetcode-soln/tree/master/0198-house-robber) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/RishiB712/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RishiB712/Leetcode-soln/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/RishiB712/Leetcode-soln/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -245,4 +247,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RishiB712/Leetcode-soln/tree/master/0056-merge-intervals) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RishiB712/Leetcode-soln/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RishiB712/Leetcode-soln/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/RishiB712/Leetcode-soln/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2683-neighboring-bitwise-xor](https://github.com/RishiB712/Leetcode-soln/tree/master/2683-neighboring-bitwise-xor) |
 | [2895-minimum-processing-time](https://github.com/RishiB712/Leetcode-soln/tree/master/2895-minimum-processing-time) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3895-count-digit-appearances](https://github.com/RishiB712/Leetcode-soln/tree/master/3895-count-digit-appearances) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RishiB712/Leetcode-soln/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/RishiB712/Leetcode-soln/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2895-minimum-processing-time](https://github.com/RishiB712/Leetcode-soln/tree/master/2895-minimum-processing-time) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |

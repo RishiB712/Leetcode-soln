@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishiB712/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/RishiB712/Leetcode-soln/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RishiB712/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RishiB712/Leetcode-soln/tree/master/0056-merge-intervals) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RishiB712/Leetcode-soln/tree/master/0162-find-peak-element) |

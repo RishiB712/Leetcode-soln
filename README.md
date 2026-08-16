@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/RishiB712/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RishiB712/Leetcode-soln/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/RishiB712/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RishiB712/Leetcode-soln/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishiB712/Leetcode-soln/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2109-adding-spaces-to-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RishiB712/Leetcode-soln/tree/master/2125-number-of-laser-beams-in-a-bank) |

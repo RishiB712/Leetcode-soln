@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RishiB712/Leetcode-soln/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2785-sort-vowels-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2785-sort-vowels-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RishiB712/Leetcode-soln/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RishiB712/Leetcode-soln/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum

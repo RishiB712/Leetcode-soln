@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestSubsequence(vector<int>& nums) {
-        int xr=0,c;
+        int xr=0,c=0;
         for(int i=0;i<nums.size();i++)
         {
             xr^=nums[i];

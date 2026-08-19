@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RishiB712/Leetcode-soln/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RishiB712/Leetcode-soln/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/RishiB712/Leetcode-soln/tree/master/3941-password-strength) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RishiB712/Leetcode-soln/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3941-password-strength](https://github.com/RishiB712/Leetcode-soln/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
 | ------- |

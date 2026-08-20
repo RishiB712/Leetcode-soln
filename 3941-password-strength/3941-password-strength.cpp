@@ -1,25 +1,24 @@
 class Solution {
 public:
     int passwordStrength(string password) {
-        string nw="";
-        sort(password.begin(),password.end());
-        for (int i = 0; i < password.size(); i++)
+        vector<int> tmp(123,0);
+        for(int i=0;i<password.size();i++)
+        tmp[password[i]]=1;
+        int c=0;
+        for(int i=0;i<123;i++)
         {
-            if (i+1==password.size() || password[i]!=password[i+1])
-            nw+=password[i];
+            if(tmp[i]==1)
+            {
+                if(i>=48 && i<=57)
+                c+=3;
+                else if(i>=65 && i<=90)
+                c+=2;
+                else if(i>=97 && i<=122)
+                c++;
+                else
+                c+=5;
+            }
         }
-        int ans=0;
-        for(int i=0;i<nw.size();i++)
-        {
-            if(nw[i]>='A' && nw[i]<='Z')
-            ans+=2;
-            else if(nw[i]>='a' && nw[i]<='z')
-            ans++;
-            else if (nw[i]>='0' && nw[i]<='9')
-            ans+=3;
-            else
-            ans+=5;
-        }
-        return ans;
+        return c;
     }
 };

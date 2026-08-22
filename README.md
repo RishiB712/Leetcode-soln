@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RishiB712/Leetcode-soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/RishiB712/Leetcode-soln/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |

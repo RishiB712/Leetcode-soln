@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RishiB712/Leetcode-soln/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RishiB712/Leetcode-soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RishiB712/Leetcode-soln/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/RishiB712/Leetcode-soln/tree/master/0443-string-compression) |
+| [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1545-find-kth-bit-in-nth-binary-string) |

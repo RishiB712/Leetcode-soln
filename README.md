@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/RishiB712/Leetcode-soln/tree/master/0443-string-compression) |
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
+| [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0229-majority-element-ii) |
+| [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/RishiB712/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
 <!---LeetCode Topics End-->

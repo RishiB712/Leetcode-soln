@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2109-adding-spaces-to-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RishiB712/Leetcode-soln/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2390-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RishiB712/Leetcode-soln/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2785-sort-vowels-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RishiB712/Leetcode-soln/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RishiB712/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishiB712/Leetcode-soln/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/RishiB712/Leetcode-soln/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Bit Manipulation
 |  |
 | ------- |

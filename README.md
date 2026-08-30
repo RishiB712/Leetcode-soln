@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/RishiB712/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0984-string-without-aaa-or-bbb](https://github.com/RishiB712/Leetcode-soln/tree/master/0984-string-without-aaa-or-bbb) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RishiB712/Leetcode-soln/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0567-permutation-in-string) |
 | [0856-score-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0984-string-without-aaa-or-bbb](https://github.com/RishiB712/Leetcode-soln/tree/master/0984-string-without-aaa-or-bbb) |
 | [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |

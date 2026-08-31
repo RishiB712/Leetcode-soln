@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RishiB712/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/RishiB712/Leetcode-soln/tree/master/0881-boats-to-save-people) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/RishiB712/Leetcode-soln/tree/master/0443-string-compression) |
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/RishiB712/Leetcode-soln/tree/master/0984-string-without-aaa-or-bbb) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishiB712/Leetcode-soln/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/RishiB712/Leetcode-soln/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0213-house-robber-ii) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
+| [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RishiB712/Leetcode-soln/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |

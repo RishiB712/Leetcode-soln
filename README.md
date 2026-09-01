@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/RishiB712/Leetcode-soln/tree/master/0984-string-without-aaa-or-bbb) |
 | [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
+| [1143-longest-common-subsequence](https://github.com/RishiB712/Leetcode-soln/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0213-house-robber-ii) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
 | [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/RishiB712/Leetcode-soln/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RishiB712/Leetcode-soln/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RishiB712/Leetcode-soln/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

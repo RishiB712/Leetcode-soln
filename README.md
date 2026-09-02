@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishiB712/Leetcode-soln/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/RishiB712/Leetcode-soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
@@ -425,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/RishiB712/Leetcode-soln/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/RishiB712/Leetcode-soln/tree/master/1143-longest-common-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

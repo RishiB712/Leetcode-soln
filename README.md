@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2487-remove-nodes-from-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/RishiB712/Leetcode-soln/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sorting
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2487-remove-nodes-from-linked-list) |
 ## Timsort
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RishiB712/Leetcode-soln/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/RishiB712/Leetcode-soln/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |

@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/RishiB712/Leetcode-soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RishiB712/Leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RishiB712/Leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0206-reverse-linked-list) |

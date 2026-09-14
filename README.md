@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/RishiB712/Leetcode-soln/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RishiB712/Leetcode-soln/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RishiB712/Leetcode-soln/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -489,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RishiB712/Leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RishiB712/Leetcode-soln/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2785-sort-vowels-in-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RishiB712/Leetcode-soln/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3110-score-of-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3110-score-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/RishiB712/Leetcode-soln/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RishiB712/Leetcode-soln/tree/master/3760-maximum-substrings-with-distinct-start) |

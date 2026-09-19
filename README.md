@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3174-clear-digits) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Math
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RishiB712/Leetcode-soln/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3174-clear-digits) |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/RishiB712/Leetcode-soln/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RishiB712/Leetcode-soln/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/RishiB712/Leetcode-soln/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sorting
 |  |

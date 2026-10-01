@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/RishiB712/Leetcode-soln/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishiB712/Leetcode-soln/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |

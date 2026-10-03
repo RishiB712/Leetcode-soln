@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/RishiB712/Leetcode-soln/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/RishiB712/Leetcode-soln/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/RishiB712/Leetcode-soln/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/RishiB712/Leetcode-soln/tree/master/0881-boats-to-save-people) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/RishiB712/Leetcode-soln/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/RishiB712/Leetcode-soln/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/RishiB712/Leetcode-soln/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RishiB712/Leetcode-soln/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/RishiB712/Leetcode-soln/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RishiB712/Leetcode-soln/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2487-remove-nodes-from-linked-list) |

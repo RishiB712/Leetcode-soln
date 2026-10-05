@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RishiB712/Leetcode-soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0507-perfect-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |

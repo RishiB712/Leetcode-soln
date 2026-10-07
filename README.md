@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RishiB712/Leetcode-soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/RishiB712/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishiB712/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RishiB712/Leetcode-soln/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RishiB712/Leetcode-soln/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/RishiB712/Leetcode-soln/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RishiB712/Leetcode-soln/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/RishiB712/Leetcode-soln/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0229-majority-element-ii) |

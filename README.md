@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
+| [0561-array-partition](https://github.com/RishiB712/Leetcode-soln/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/RishiB712/Leetcode-soln/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/RishiB712/Leetcode-soln/tree/master/0682-baseball-game) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/RishiB712/Leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/RishiB712/Leetcode-soln/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/RishiB712/Leetcode-soln/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/RishiB712/Leetcode-soln/tree/master/0881-boats-to-save-people) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RishiB712/Leetcode-soln/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/RishiB712/Leetcode-soln/tree/master/0299-bulls-and-cows) |
+| [0561-array-partition](https://github.com/RishiB712/Leetcode-soln/tree/master/0561-array-partition) |
 | [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/RishiB712/Leetcode-soln/tree/master/1833-maximum-ice-cream-bars) |

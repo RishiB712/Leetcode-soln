@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RishiB712/Leetcode-soln/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2895-minimum-processing-time](https://github.com/RishiB712/Leetcode-soln/tree/master/2895-minimum-processing-time) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RishiB712/Leetcode-soln/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RishiB712/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RishiB712/Leetcode-soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RishiB712/Leetcode-soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/RishiB712/Leetcode-soln/tree/master/3895-count-digit-appearances) |

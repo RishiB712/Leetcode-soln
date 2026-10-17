@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RishiB712/Leetcode-soln/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/RishiB712/Leetcode-soln/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2073-time-needed-to-buy-tickets](https://github.com/RishiB712/Leetcode-soln/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/RishiB712/Leetcode-soln/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2109-adding-spaces-to-a-string) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RishiB712/Leetcode-soln/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/RishiB712/Leetcode-soln/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/RishiB712/Leetcode-soln/tree/master/2079-watering-plants) |
 | [2109-adding-spaces-to-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RishiB712/Leetcode-soln/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RishiB712/Leetcode-soln/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/RishiB712/Leetcode-soln/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |

@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RishiB712/Leetcode-soln/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/RishiB712/Leetcode-soln/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/RishiB712/Leetcode-soln/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RishiB712/Leetcode-soln/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishiB712/Leetcode-soln/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0189-rotate-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RishiB712/Leetcode-soln/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/RishiB712/Leetcode-soln/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/RishiB712/Leetcode-soln/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RishiB712/Leetcode-soln/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RishiB712/Leetcode-soln/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |

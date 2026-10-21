@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RishiB712/Leetcode-soln/tree/master/0067-add-binary) |
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/RishiB712/Leetcode-soln/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/RishiB712/Leetcode-soln/tree/master/0946-validate-stack-sequences) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RishiB712/Leetcode-soln/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/RishiB712/Leetcode-soln/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RishiB712/Leetcode-soln/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RishiB712/Leetcode-soln/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishiB712/Leetcode-soln/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/RishiB712/Leetcode-soln/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0189-rotate-array) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RishiB712/Leetcode-soln/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/RishiB712/Leetcode-soln/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RishiB712/Leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/RishiB712/Leetcode-soln/tree/master/0299-bulls-and-cows) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RishiB712/Leetcode-soln/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/RishiB712/Leetcode-soln/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |

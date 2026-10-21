@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RishiB712/Leetcode-soln/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/RishiB712/Leetcode-soln/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RishiB712/Leetcode-soln/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/RishiB712/Leetcode-soln/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RishiB712/Leetcode-soln/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/RishiB712/Leetcode-soln/tree/master/0371-sum-of-two-integers) |

@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RishiB712/Leetcode-soln/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/RishiB712/Leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/RishiB712/Leetcode-soln/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/RishiB712/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RishiB712/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RishiB712/Leetcode-soln/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/RishiB712/Leetcode-soln/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |

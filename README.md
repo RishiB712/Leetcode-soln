@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RishiB712/Leetcode-soln/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/RishiB712/Leetcode-soln/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/RishiB712/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/RishiB712/Leetcode-soln/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0445-add-two-numbers-ii) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/RishiB712/Leetcode-soln/tree/master/0319-bulb-switcher) |
 | [3227-vowels-game-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3227-vowels-game-in-a-string) |
 ## Backtracking
 |  |

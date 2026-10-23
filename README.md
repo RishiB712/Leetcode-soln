@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RishiB712/Leetcode-soln/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/RishiB712/Leetcode-soln/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/RishiB712/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/RishiB712/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/RishiB712/Leetcode-soln/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0445-add-two-numbers-ii) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RishiB712/Leetcode-soln/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RishiB712/Leetcode-soln/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/RishiB712/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RishiB712/Leetcode-soln/tree/master/0704-binary-search) |

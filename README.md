@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RishiB712/Leetcode-soln/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/RishiB712/Leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/RishiB712/Leetcode-soln/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/RishiB712/Leetcode-soln/tree/master/0946-validate-stack-sequences) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/RishiB712/Leetcode-soln/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/RishiB712/Leetcode-soln/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/RishiB712/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/RishiB712/Leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/RishiB712/Leetcode-soln/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RishiB712/Leetcode-soln/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/RishiB712/Leetcode-soln/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/RishiB712/Leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/RishiB712/Leetcode-soln/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/RishiB712/Leetcode-soln/tree/master/0443-string-compression) |
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |

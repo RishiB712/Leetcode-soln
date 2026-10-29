@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/RishiB712/Leetcode-soln/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishiB712/Leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/RishiB712/Leetcode-soln/tree/master/0836-rectangle-overlap) |
 | [1006-clumsy-factorial](https://github.com/RishiB712/Leetcode-soln/tree/master/1006-clumsy-factorial) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RishiB712/Leetcode-soln/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/RishiB712/Leetcode-soln/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/RishiB712/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishiB712/Leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RishiB712/Leetcode-soln/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RishiB712/Leetcode-soln/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishiB712/Leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sieve Theory
 |  |
 | ------- |

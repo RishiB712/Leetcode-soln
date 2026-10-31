@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/RishiB712/Leetcode-soln/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/RishiB712/Leetcode-soln/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/RishiB712/Leetcode-soln/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/RishiB712/Leetcode-soln/tree/master/0682-baseball-game) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0423-reconstruct-original-digits-from-english](https://github.com/RishiB712/Leetcode-soln/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/RishiB712/Leetcode-soln/tree/master/0575-distribute-candies) |
 | [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |

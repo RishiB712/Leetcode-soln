@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/RishiB712/Leetcode-soln/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/RishiB712/Leetcode-soln/tree/master/2409-count-days-spent-together) |
+| [2469-convert-the-temperature](https://github.com/RishiB712/Leetcode-soln/tree/master/2469-convert-the-temperature) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RishiB712/Leetcode-soln/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/RishiB712/Leetcode-soln/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |

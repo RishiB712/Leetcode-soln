@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RishiB712/Leetcode-soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RishiB712/Leetcode-soln/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/RishiB712/Leetcode-soln/tree/master/3783-mirror-distance-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/RishiB712/Leetcode-soln/tree/master/3895-count-digit-appearances) |

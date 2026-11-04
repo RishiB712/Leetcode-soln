@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/RishiB712/Leetcode-soln/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RishiB712/Leetcode-soln/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RishiB712/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/RishiB712/Leetcode-soln/tree/master/0056-merge-intervals) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RishiB712/Leetcode-soln/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/RishiB712/Leetcode-soln/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0402-remove-k-digits) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RishiB712/Leetcode-soln/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/RishiB712/Leetcode-soln/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/RishiB712/Leetcode-soln/tree/master/0120-triangle) |

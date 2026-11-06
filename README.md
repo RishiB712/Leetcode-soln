@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/RishiB712/Leetcode-soln/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RishiB712/Leetcode-soln/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/RishiB712/Leetcode-soln/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3498-reverse-degree-of-a-string) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/RishiB712/Leetcode-soln/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |

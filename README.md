@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RishiB712/Leetcode-soln/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1920-build-array-from-permutation](https://github.com/RishiB712/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/RishiB712/Leetcode-soln/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RishiB712/Leetcode-soln/tree/master/2073-time-needed-to-buy-tickets) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RishiB712/Leetcode-soln/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/RishiB712/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RishiB712/Leetcode-soln/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/RishiB712/Leetcode-soln/tree/master/2079-watering-plants) |
 | [2109-adding-spaces-to-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2109-adding-spaces-to-a-string) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RishiB712/Leetcode-soln/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/RishiB712/Leetcode-soln/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2109-adding-spaces-to-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2109-adding-spaces-to-a-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/RishiB712/Leetcode-soln/tree/master/2125-number-of-laser-beams-in-a-bank) |

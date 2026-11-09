@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RishiB712/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/RishiB712/Leetcode-soln/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RishiB712/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RishiB712/Leetcode-soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2895-minimum-processing-time](https://github.com/RishiB712/Leetcode-soln/tree/master/2895-minimum-processing-time) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3467-transform-array-by-parity](https://github.com/RishiB712/Leetcode-soln/tree/master/3467-transform-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RishiB712/Leetcode-soln/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/RishiB712/Leetcode-soln/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3467-transform-array-by-parity](https://github.com/RishiB712/Leetcode-soln/tree/master/3467-transform-array-by-parity) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/RishiB712/Leetcode-soln/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Heap (Priority Queue)
 |  |

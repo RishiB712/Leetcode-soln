@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/RishiB712/Leetcode-soln/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/RishiB712/Leetcode-soln/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RishiB712/Leetcode-soln/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3794-reverse-string-prefix](https://github.com/RishiB712/Leetcode-soln/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/RishiB712/Leetcode-soln/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RishiB712/Leetcode-soln/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/RishiB712/Leetcode-soln/tree/master/3794-reverse-string-prefix) |
 | [3941-password-strength](https://github.com/RishiB712/Leetcode-soln/tree/master/3941-password-strength) |
 ## Prefix Sum
 |  |

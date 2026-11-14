@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/RishiB712/Leetcode-soln/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/RishiB712/Leetcode-soln/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/RishiB712/Leetcode-soln/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/RishiB712/Leetcode-soln/tree/master/2469-convert-the-temperature) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RishiB712/Leetcode-soln/tree/master/2523-closest-prime-numbers-in-range) |
 | [2769-find-the-maximum-achievable-number](https://github.com/RishiB712/Leetcode-soln/tree/master/2769-find-the-maximum-achievable-number) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/RishiB712/Leetcode-soln/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2413-smallest-even-multiple](https://github.com/RishiB712/Leetcode-soln/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/RishiB712/Leetcode-soln/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table

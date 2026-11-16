@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RishiB712/Leetcode-soln/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/RishiB712/Leetcode-soln/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RishiB712/Leetcode-soln/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/RishiB712/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/RishiB712/Leetcode-soln/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RishiB712/Leetcode-soln/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/RishiB712/Leetcode-soln/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/RishiB712/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishiB712/Leetcode-soln/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RishiB712/Leetcode-soln/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/RishiB712/Leetcode-soln/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Bit Manipulation
 |  |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RishiB712/Leetcode-soln/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RishiB712/Leetcode-soln/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RishiB712/Leetcode-soln/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |

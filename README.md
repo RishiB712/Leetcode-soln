@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/RishiB712/Leetcode-soln/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/RishiB712/Leetcode-soln/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/RishiB712/Leetcode-soln/tree/master/0371-sum-of-two-integers) |
+| [0476-number-complement](https://github.com/RishiB712/Leetcode-soln/tree/master/0476-number-complement) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishiB712/Leetcode-soln/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/RishiB712/Leetcode-soln/tree/master/2433-find-the-original-array-of-prefix-xor) |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/RishiB712/Leetcode-soln/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0881-boats-to-save-people](https://github.com/RishiB712/Leetcode-soln/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/RishiB712/Leetcode-soln/tree/master/0946-validate-stack-sequences) |
+| [1207-unique-number-of-occurrences](https://github.com/RishiB712/Leetcode-soln/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RishiB712/Leetcode-soln/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RishiB712/Leetcode-soln/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/1441-build-an-array-with-stack-operations) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/RishiB712/Leetcode-soln/tree/master/0575-distribute-candies) |
 | [1079-letter-tile-possibilities](https://github.com/RishiB712/Leetcode-soln/tree/master/1079-letter-tile-possibilities) |
+| [1207-unique-number-of-occurrences](https://github.com/RishiB712/Leetcode-soln/tree/master/1207-unique-number-of-occurrences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/RishiB712/Leetcode-soln/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/RishiB712/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/RishiB712/Leetcode-soln/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |

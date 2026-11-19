@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/RishiB712/Leetcode-soln/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/RishiB712/Leetcode-soln/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/RishiB712/Leetcode-soln/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/RishiB712/Leetcode-soln/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/RishiB712/Leetcode-soln/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/RishiB712/Leetcode-soln/tree/master/0367-valid-perfect-square) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/RishiB712/Leetcode-soln/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishiB712/Leetcode-soln/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/RishiB712/Leetcode-soln/tree/master/0233-number-of-digit-one) |
 | [0553-optimal-division](https://github.com/RishiB712/Leetcode-soln/tree/master/0553-optimal-division) |
 | [0583-delete-operation-for-two-strings](https://github.com/RishiB712/Leetcode-soln/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/RishiB712/Leetcode-soln/tree/master/0678-valid-parenthesis-string) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/RishiB712/Leetcode-soln/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/RishiB712/Leetcode-soln/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/RishiB712/Leetcode-soln/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/RishiB712/Leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishiB712/Leetcode-soln/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RishiB712/Leetcode-soln/tree/master/1823-find-the-winner-of-the-circular-game) |

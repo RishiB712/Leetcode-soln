@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/RishiB712/Leetcode-soln/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/RishiB712/Leetcode-soln/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RishiB712/Leetcode-soln/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1512-number-of-good-pairs](https://github.com/RishiB712/Leetcode-soln/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RishiB712/Leetcode-soln/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RishiB712/Leetcode-soln/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/RishiB712/Leetcode-soln/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RishiB712/Leetcode-soln/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/RishiB712/Leetcode-soln/tree/master/1829-maximum-xor-for-each-query) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/RishiB712/Leetcode-soln/tree/master/1894-find-the-student-that-will-replace-the-chalk) |

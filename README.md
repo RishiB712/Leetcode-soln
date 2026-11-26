@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/RishiB712/Leetcode-soln/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/RishiB712/Leetcode-soln/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/3701-compute-alternating-sum) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/RishiB712/Leetcode-soln/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/RishiB712/Leetcode-soln/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RishiB712/Leetcode-soln/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/RishiB712/Leetcode-soln/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/RishiB712/Leetcode-soln/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

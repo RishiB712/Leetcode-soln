@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/RishiB712/Leetcode-soln/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RishiB712/Leetcode-soln/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/RishiB712/Leetcode-soln/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RishiB712/Leetcode-soln/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/RishiB712/Leetcode-soln/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/RishiB712/Leetcode-soln/tree/master/3285-find-indices-of-stable-mountains) |
